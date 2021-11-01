@@ -10,7 +10,7 @@
 
 
 
-
+![ambientacao](https://github.com/CaioHangai/APICatalogoDeJogos/blob/master/Image/ambientacao.JPG)
 
 ## Links uteis: :link: 
 
@@ -18,25 +18,25 @@
 
 * Link da Aula:
 
-https://web.digitalinnovation.one/lab/arquitetura-essencial-de-api-com-net/learning/e4600dc8-0e68-45cd-82e6-c048c0946f7c
+<https://web.digitalinnovation.one/lab/arquitetura-essencial-de-api-com-net/learning/e4600dc8-0e68-45cd-82e6-c048c0946f7c>
 
 
 
 * Digital Inovation One:
 
-https://digitalinnovation.one/
+<https://digitalinnovation.one/>
 
 
 
 * NTT Data:
 
-https://br.nttdata.com/
+<https://br.nttdata.com/>
 
 
 
 * Linkedin do Professor:
 
-https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/
+<https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/>
 
 
 
