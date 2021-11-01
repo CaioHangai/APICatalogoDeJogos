@@ -6,7 +6,7 @@
 
   
 
-## Ambientação da e funcionamento da API.
+## Ambientação e funcionamento da API.
 
 
 
