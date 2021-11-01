@@ -4,6 +4,8 @@
 
 * Esta API foi desenvolvida em aula juntamente com o Prof. Thiago Campos de Oliveira, na aula prática do bootcamp New Talents .NET da Digital Inovation One em parceria com a NTT Data. 
 
+* Neste projeto o objetivo era efetuar o **CRUD** (acrónimo do inglês Create, Read, Update and Delete) que são as quatro operações básicas (criação,consulta, atualização e destruição de dados) utilizadas em bases de dados relacionais (RDBMS) fornecidas aos utilizadores do sistema, tudo isso aplicando as boas práticas de programação e interatividade de forma amigável com o usuário ao apresentar mensagens de erro.
+
   
 
 ## Ambientação e funcionamento da API.
